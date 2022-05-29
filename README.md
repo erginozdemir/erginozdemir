@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @erginozdemir
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python, SQL
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me e-mail: erginozdemir@gmail.com
